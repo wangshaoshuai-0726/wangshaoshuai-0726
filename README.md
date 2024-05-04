@@ -3,7 +3,7 @@
 ![Static Badge](https://img.shields.io/badge/python-8a2be2)
 ![Static Badge](https://img.shields.io/badge/Javascript-orange)
 ![Static Badge](https://img.shields.io/badge/Vue-brightgreen)
-![Static Badge](https://img.shields.io/badge/Go-information)
+![Static Badge](https://img.shields.io/badge/Go-informational)
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-yellow)
 ![Static Badge](https://img.shields.io/badge/%E5%88%92%E6%B0%B4%E7%9A%84%E9%B1%BC-blue)
 ![Static Badge](https://img.shields.io/badge/%E8%A3%85%E9%A5%AD%E7%9A%84%E6%A1%B6-brown)
