@@ -10,9 +10,9 @@ https://img.shields.io/badge/C%2B%2B-yellow
 - 🎓 Currently working at ZJU
 - 🌱 Now struggling to solve leetcode questions
 - 🏃 Table Tennis / Cycling / Swimming
-- 😄 Pronouns: https://img.shields.io/badge/%E5%88%92%E6%B0%B4%E7%9A%84%E9%B1%BC-blue
-、https://img.shields.io/badge/%E8%A3%85%E9%A5%AD%E7%9A%84%E6%A1%B6-brown
-、https://img.shields.io/badge/%E7%94%9F%E4%BA%A7%E9%98%9F%E7%9A%84%E9%A9%B4-grey
+- 😄 Pronouns: ![Static Badge](https://img.shields.io/badge/%E5%88%92%E6%B0%B4%E7%9A%84%E9%B1%BC-blue)
+、![Static Badge](https://img.shields.io/badge/%E8%A3%85%E9%A5%AD%E7%9A%84%E6%A1%B6-brown)
+、![Static Badge](https://img.shields.io/badge/%E7%94%9F%E4%BA%A7%E9%98%9F%E7%9A%84%E9%A9%B4-grey)
 - 📫 Email me at: 649896433@qq.com
 
 
